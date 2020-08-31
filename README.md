@@ -14,3 +14,29 @@ Exemplos de entrada/saída
     Saída 1: 40 graus celsius equivale a 104 graus fahrenheit
     Entrada 2: 180                       
     Saída 2: 180 graus celsius equivale a 356 graus fahrenheit
+
+# Idade em dias
+
+Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
+
+Entrada
+A entrada contém 3 valores inteiros, representando o ano, mês e dia. Na primeira linha leia o ano, na segunda o mês e na terceira o dia.
+Saída
+A saída deve apresentar a idade da pessoa em dias, conforme exemplo abaixo
+Exemplos de entrada/saída
+
+    Entrada 1:                     
+    2                            
+    1
+    2
+    
+    Saída 1:
+    762
+    
+    Entrada 2:                   
+    1                             
+    1
+    1
+    
+    Saída 2:
+    396
