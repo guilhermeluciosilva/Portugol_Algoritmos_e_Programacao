@@ -271,6 +271,7 @@ Exemplos de entrada/saída
     Entrada 1                      Saída 1
     4                               24
     Entrada 2                      Saída 2
+    5                               120
     
 # O Melhor número
 Escreva um programa em portugol para receber um número do usuário e verificar se este número é o melhor ou não. O melhor número é aquele cuja soma de fatorial dos dígitos é igual ao número original.
