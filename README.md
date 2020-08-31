@@ -9,7 +9,8 @@ A entrada é composta de um único número inteiro n, representando a unidade º
 Saída
 A saída deve ser apresentada da seguinte forme: “X graus celsius equivale a Y graus fahrenheit ”, onde X é o valor de entrada e Y é o valor inteiro de saída do seu programa. Não esqueça de imprimir o fim da linha após a saída, caso contrário receberá um “presentation error”.
 Exemplos de entrada/saída
-    Entrada 1                      Saída 1
-    40                             40 graus celsius equivale a 104 graus fahrenheit
-    Entrada 2                      Saída 2
-    180                              180 graus celsius equivale a 356 graus fahrenheit
+
+    Entrada 1: 40                     
+    Saída 1: 40 graus celsius equivale a 104 graus fahrenheit
+    Entrada 2: 180                       
+    Saída 2: 180 graus celsius equivale a 356 graus fahrenheit
